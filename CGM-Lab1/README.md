@@ -99,8 +99,8 @@ After completing this assignment, the following concepts were understood:
 
 | Field | Details |
 |---|---|
-| **Name** | Ishaan Sharma |
-| **Roll Number** | IC-2K24-39 |
+| **Name** | Aafiya Khan |
+| **Roll Number** | IC-2K24-02 |
 | **Course** | MCA (5 Years) |
 | **Subject** | Computer Graphics |
 | **Assignment** | Lab Assignment 1 |
