@@ -31,12 +31,10 @@ ComputerGraphics-Lab/
 │
 ├── CGM_Lab1/
 │   ├── BasicShapes.cpp
-│   ├── Screenshot.png
 │   └── README.md
 │
 ├── CGM_Lab2/
 │   ├── DDA-Line-Drawing-Algorithm.cpp
-│   ├── Screenshot.png
 │   └── README.md
 │
 └── README.md
