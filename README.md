@@ -30,12 +30,12 @@ It covers fundamental concepts and practical implementations of computer graphic
 ComputerGraphics-Lab/
 │
 ├── CGM_Lab1/
-│   ├── CGM_LabAssignment1_BasicShapes.cpp
+│   ├── BasicShapes.cpp
 │   ├── Screenshot.png
 │   └── README.md
 │
 ├── CGM_Lab2/
-│   ├── CGM_LabAssignment2_DDA.cpp
+│   ├── DDA-Line-Drawing-Algorithm.cpp
 │   ├── Screenshot.png
 │   └── README.md
 │
